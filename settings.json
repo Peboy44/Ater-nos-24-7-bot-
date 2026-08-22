@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "JEMINMCAST",
+    "username": "KOLAYALI SMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "jemin_mc.aternos.me",
-    "port":63073,
+    "ip": "KOLAYALISMP345566.aternos.me",
+    "port":13838,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -75,7 +75,7 @@
     "webhookUrl": "",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
